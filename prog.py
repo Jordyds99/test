@@ -1,1 +1,1 @@
-print "hello world hoi!"
+print "hello world hooi!"
